@@ -1,13 +1,13 @@
-# Image_classification_Segmebtation_model_Rust_No_Rust
+# Image_classification_Segmentation_model_Rust_No_Rust
 This project outlines a step-by-step guide to develop a rust detection model using image recognition with Python and TensorFlow. The model is trained to classify images as corrosion or no corrosion.
-![image](https://github.com/royanurag005/Image_classification_Segmebtation_model_Rust_No_Rust/assets/97970838/0df840a0-f90b-4cce-9b82-a7c5f4971c46)
+![image](https://github.com/royan urag005/Image_classification_Segmebtation_model_Rust_No_Rust/assets/97970838/0df840a0-f90b-4cce-9b82-a7c5f4971c46)
 The above diagram gives an overview of the generalised approach towards rust detection using tensorflow.
 
 # Description
 
 Welcome to the Microscopic Feature Extraction for Rust Detection Repository!
 
-https://drive.google.com/open?id=1xTVYEjiLbLbwjgXH7kXycMSmW_4UCAjJ&usp=drive_copy
+![ship corrosion](https://github.com/royanurag005/Image_classification_Segmebtation_model_Rust_No_Rust/assets/97970838/51326ef2-cb6b-4896-b78b-f6d85fc4922d)
 
 This repository hosts an innovative methodology for extracting microscopic features from macroscopic images, with a specific focus on rust detection. Leveraging the power of TensorFlow, a leading deep learning framework, and sophisticated image processing techniques, this project aims to uncover subtle details that often elude the naked eye.
 
@@ -26,9 +26,6 @@ Model Training and Validation: Train your model to distinguish between rust and 
 
 Post-Processing and Deployment: Fine-tune predictions through post-processing methods, like filtering out false positives and applying ensemble techniques. Deploy the model to production systems for reliable rust detection.
 
-# Usage
-Clone this repository: git clone https://github.com/your_username/microscopic-rust-detection.git
-Navigate to the repository: cd microscopic-rust-detection
-Follow the provided Jupyter Notebook or Python script to apply the methodology to your images.
-Contribution
+# Contribution
+
 Contributions are welcome! If you have suggestions, improvements, or new features to add, please create a pull request.
