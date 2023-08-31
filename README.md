@@ -29,3 +29,6 @@ Post-Processing and Deployment: Fine-tune predictions through post-processing me
 # Contribution
 
 Contributions are welcome! If you have suggestions, improvements, or new features to add, please create a pull request.
+
+Author : Anurag Roy and Amartya Santra
+Documentation : Soumodip Saha
