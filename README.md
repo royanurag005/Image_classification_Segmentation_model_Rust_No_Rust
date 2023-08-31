@@ -1,6 +1,6 @@
 # Image_classification_Segmentation_model_Rust_No_Rust
 This project outlines a step-by-step guide to develop a rust detection model using image recognition with Python and TensorFlow. The model is trained to classify images as corrosion or no corrosion.
-![image](https://github.com/royan urag005/Image_classification_Segmebtation_model_Rust_No_Rust/assets/97970838/0df840a0-f90b-4cce-9b82-a7c5f4971c46)
+![image](https://github.com/royanurag005/Image_classification_Segmebtation_model_Rust_No_Rust/assets/97970838/0df840a0-f90b-4cce-9b82-a7c5f4971c46)
 The above diagram gives an overview of the generalised approach towards rust detection using tensorflow.
 
 # Description
